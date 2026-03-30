@@ -21,5 +21,15 @@ This project uses ontology-based knowledge representation to analyze oceanograph
 - Environmental data analysis
 - Intelligent data retrieval systems
 
+## Reproducibility
+To run this project:
+1. Use a similar dataset with features like horsepower, weight, etc.
+2. Update dataset path in the code
+3. Run the model script
+
+## Note
+Due to data privacy constraints, the original dataset is not included.
+
+
 ## Author
 Thanuja Vetapalem
